@@ -1,1 +1,1 @@
-# TrabalhosFaculdade
+Eu optei por utilizar o Eclipse como IDE pois já utilizei ele anteriormente fora da escola com automação de testes e me senti mais a vontade por ja ter tido essa experiencia. Programando em java, havia mexido pouco, mas o simples ja era de conhecimento, entretanto foi necessário realizar algumas pesquisas pra tratativas de recebimento de dados e também de como recebê-los.
